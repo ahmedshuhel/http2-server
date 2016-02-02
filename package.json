@@ -1,0 +1,16 @@
+{
+  "name": "http2-server",
+  "version": "1.0.0",
+  "description": "simple http2 server CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http2",
+    "server",
+    "CLI"
+  ],
+  "author": "Shuhel Ahmed <Shuhel Ahmed>",
+  "license": "ISC"
+}
